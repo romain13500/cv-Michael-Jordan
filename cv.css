@@ -1,0 +1,106 @@
+body {
+  border-style: inset;
+  border-width: thick;
+  border-color: black;
+  padding: 100px;
+  background-color: orangered;
+}
+
+header {
+  font-size: xx-large;
+  width: 400px;
+  height: 200px;
+  padding: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: flex;
+  justify-content: center;
+}
+header img {
+  border-radius: 50%;
+}
+
+.presentation .bio {
+  padding: 50px;
+}
+.presentation .bio .qui {
+  border: solid orangered;
+  border-radius: 60%;
+  background-color: black;
+  text-align: center;
+  color: orangered;
+}
+.presentation .bio .align {
+  text-align: center;
+  color: black;
+}
+
+.info {
+  padding: 50px;
+}
+.info .contact {
+  border: solid orangered;
+  border-radius: 60%;
+  background-color: black;
+  text-align: center;
+  color: orangered;
+}
+.info .contact-flex {
+  color: black;
+  text-align: center;
+}
+.info .social {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form {
+  border: solid orangered;
+  border-radius: 60%;
+  background-color: black;
+  text-align: center;
+  color: orangered;
+}
+.form .school {
+  color: black;
+}
+
+.expro {
+  border: solid orangered;
+  border-radius: 60%;
+  text-align: center;
+  color: orangered;
+  background-color: black;
+}
+
+.experience .exp-logo img {
+  border-radius: 50%;
+}
+.experience .exp-info {
+  color: black;
+}
+
+.competence .equipe {
+  border: solid orangered;
+  border-radius: 60%;
+  text-align: center;
+  color: orangered;
+  background-color: black;
+}
+.competence .equipe .liste {
+  color: red;
+}
+.competence .equipe .perso {
+  border: solid red;
+  border-radius: 60%;
+  background-color: red;
+  text-align: center;
+  color: red;
+}
+.competence .interet .hob {
+  border: solid red;
+  border-radius: 60%;
+  background-color: red;
+  text-align: center;
+  color: black;
+}/*# sourceMappingURL=cv.css.map */
